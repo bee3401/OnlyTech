@@ -1,0 +1,39 @@
+.inputForm {
+    padding-top: 2%;
+    padding-right: 12.5%;
+    padding-left: 12.5%;
+    text-align: left;
+}
+
+.toggleButtons {
+    color: black;
+    /* background-color: rgb(179, 242, 255, 0.5);*/
+    background-color: white;
+    border: 1px solid rgb(0, 0, 0, 0.2);
+}
+
+.toggleGroup {
+    margin: auto;
+}
+
+.toggleGroup1 {
+    margin: auto;
+    padding-right: 5%;
+}
+
+.row_div {
+    display: flex;
+    flex-direction: row;
+}
+
+.completeForm {
+    padding-top: 2%;
+    padding-right: 12.5%;
+    padding-left:12.5%;
+}
+
+.buttonGroup {
+    display: 'flex';
+    justify-content: right;
+    color: white;
+}
